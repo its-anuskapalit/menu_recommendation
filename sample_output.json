@@ -1,0 +1,12 @@
+[
+  {
+    "combo_id": 1,
+    "main": "Chicken Biryani",
+    "side": "Garlic Naan",
+    "drink": "Masala Chaas",
+    "total_calories": 750,
+    "popularity_score": 2.4,
+    "reasoning": "Spicy profile fits Friday trends, popular choices, calorie target met"
+  },
+  ...
+]
